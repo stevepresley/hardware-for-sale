@@ -1,13 +1,32 @@
 # Hardware for Sale
 
-Updated: 2026-10-08 16:00 UTC
+Updated: 2026-10-09 13:38 UTC
 
 ## Contents
 
+- [Synology DS918+ system](#synology-ds918-system)
 - [Synology DS918+ drive inventory](#synology-ds918-drive-inventory)
   - [SATA hard drives](#sata-hard-drives)
   - [NVMe SSDs](#nvme-ssds)
-- [Information needed for the Synology listing](#information-needed-for-the-synology-listing)
+
+## Synology DS918+ system
+
+| Field | Details |
+| --- | --- |
+| Model | Synology DS918+ |
+| CPU | Intel Celeron J3455, 4 cores / 4 threads |
+| RAM | 7.6 GB reported (~8 GB installed), upgraded from stock 4 GB |
+| Swap | 6.6 GB |
+| Drive bays | Four 3.5-inch bays and two M.2 NVMe slots; all populated at capture |
+| DSM | 6.2.4-25556 Update 8 |
+| NIC | Not documented in the capture; verify in DSM Control Panel → Network → Network Interface |
+
+The chassis serial number is intentionally not recorded here. Drive serials
+appear in their individual reports.
+
+Sale contents and physical condition have not been documented. Confirm which
+drives, power supply, trays, and paid Surveillance Station licenses are included.
+Do not publish license keys.
 
 ## Synology DS918+ drive inventory
 
@@ -53,11 +72,3 @@ Full captured SMART reports are linked by drive serial.
 - Power-on hours: 46,913; endurance used: 96%.
 - Available spare: 100%; critical warning: 0; media errors: 0.
 - [SMART report](Drives/S64ENG0R322539N/S64ENG0R322539N.md)
-
-## Information needed for the Synology listing
-
-- DSM **Control Panel → Info Center**: model and chassis serial number.
-- Confirmed RAM amount and module configuration.
-- Sale contents: power supply, trays, drives included or removed, and
-  Surveillance Station paid-license disposition. Do not post license keys.
-- Physical condition and any other known faults.
