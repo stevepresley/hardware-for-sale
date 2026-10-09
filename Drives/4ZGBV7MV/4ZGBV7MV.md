@@ -3,6 +3,9 @@ Serial: 4ZGBV7MV
 Power-on hours: 34,911 | SMART: PASSED
 Reallocated: 0 | Pending: 0 | Offline uncorrectable: 0
 Temperature: 40 °C
+Manufacturing date on label: 03 Jun 2022
+
+![4ZGBV7MV drive label](4ZGBV7MV.jpeg)
 
 **Full captured report*** (command: `smartctl -a -d sat /dev/sdd`; preserving the complete output supplied):
 
