@@ -25,8 +25,8 @@ The chassis serial number is intentionally not recorded here. Drive serials
 appear in their individual reports.
 
 Sale contents and physical condition have not been documented. Confirm which
-drives, power supply, trays, and paid Surveillance Station licenses are included.
-Do not publish license keys.
+drives, power supply, trays, and paid Surveillance Station licenses are
+included. Do not publish license keys.
 
 ## Synology DS918+ drive inventory
 
