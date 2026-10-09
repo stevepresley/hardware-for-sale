@@ -2,6 +2,9 @@ WDC WD140EFFX-68VBXN0 | 14 TB | 5,400 rpm
 Serial: QGKBJ6KT
 Power-on hours: 41,334 | SMART: PASSED
 Reallocated: 0 | Pending: 0 | Offline uncorrectable: 0
+Manufacturing date on label: 15 Apr 2020
+
+![QGKBJ6KT drive label](QGKBJ6KT.jpeg)
 
 **Full captured report*** (command: `smartctl -a -d sat /dev/sda`; preserving the complete output supplied):
 
