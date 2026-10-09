@@ -1,6 +1,6 @@
 # Hardware for Sale
 
-Updated: 2026-10-09 13:38 UTC
+Updated: 2026-10-09 13:59 UTC
 
 ## Contents
 
@@ -8,7 +8,6 @@ Updated: 2026-10-09 13:38 UTC
 - [Synology DS918+ drive inventory](#synology-ds918-drive-inventory)
   - [SATA hard drives](#sata-hard-drives)
   - [NVMe SSDs](#nvme-ssds)
-  - [Additional photographed drive](#additional-photographed-drive)
 
 ## Synology DS918+ system
 
@@ -42,12 +41,13 @@ Full captured SMART reports are linked by drive serial.
 - Label date: 15 Apr 2020; [drive photo](Drives/QGKBJ6KT/QGKBJ6KT.jpeg).
 - [SMART report](Drives/QGKBJ6KT/QGKBJ6KT.md)
 
-#### OOS18000G — 0001HR2B
+#### OOS18000G — SMART serial 0001HR2B; label serial QV1ZEXT5
 
 - Capacity: 18 TB; power-on hours: 4,433.
 - Known failing; 155 ATA errors, 127 UDMA CRC errors, 2 command timeouts.
 - SMART self-assessment PASSED; reallocated/pending/offline-uncorrectable: 0/0/0.
-- No photo matching serial 0001HR2B is in the repo.
+- Operator confirms this is the drive pulled from slot 2.
+- Label DOM: 15 Jun 2022; [drive photo](Drives/QV1ZEXt5/QV1ZEXt5.jpeg).
 - [SMART report](Drives/0001HR2B/0001HR2B.md)
 
 #### WDC WD181KFGX-68AFPN0 — 4ZGB861V
@@ -63,11 +63,6 @@ Full captured SMART reports are linked by drive serial.
 - SMART: PASSED; reallocated/pending/offline-uncorrectable: 0/0/0.
 - Label date: 03 Jun 2022; [drive photo](Drives/4ZGBV7MV/4ZGBV7MV.jpeg).
 - [SMART report](Drives/4ZGBV7MV/4ZGBV7MV.md)
-
-### Additional photographed drive
-
-- [QV1ZEXT5](Drives/QV1ZEXt5/QV1ZEXt5.md): 18 TB; DOM 15 Jun 2022.
-  No SMART report for this serial is captured.
 
 ### NVMe SSDs
 
