@@ -10,6 +10,9 @@
 | Part number | 2TV103-899 |
 | Firmware | 0081 |
 | Date of manufacture (DOM) | 15 Jun 2022 |
-| SMART report | Not captured for this serial |
+| SMART report | [Captured report](../0001HR2B/0001HR2B.md) identifies the drive as 0001HR2B |
+
+The physical label reads QV1ZEXT5; the SMART transcript reports 0001HR2B.
+The operator confirms these identify the same drive pulled from slot 2.
 
 ![QV1ZEXT5 drive label](QV1ZEXt5.jpeg)
