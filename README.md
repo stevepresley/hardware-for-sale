@@ -8,6 +8,7 @@ Updated: 2026-10-09 13:38 UTC
 - [Synology DS918+ drive inventory](#synology-ds918-drive-inventory)
   - [SATA hard drives](#sata-hard-drives)
   - [NVMe SSDs](#nvme-ssds)
+  - [Additional photographed drive](#additional-photographed-drive)
 
 ## Synology DS918+ system
 
@@ -38,6 +39,7 @@ Full captured SMART reports are linked by drive serial.
 
 - Capacity: 14 TB; power-on hours: 41,334.
 - SMART: PASSED; reallocated/pending/offline-uncorrectable: 0/0/0.
+- Label date: 15 Apr 2020; [drive photo](Drives/QGKBJ6KT/QGKBJ6KT.jpeg).
 - [SMART report](Drives/QGKBJ6KT/QGKBJ6KT.md)
 
 #### OOS18000G — 0001HR2B
@@ -45,19 +47,27 @@ Full captured SMART reports are linked by drive serial.
 - Capacity: 18 TB; power-on hours: 4,433.
 - Known failing; 155 ATA errors, 127 UDMA CRC errors, 2 command timeouts.
 - SMART self-assessment PASSED; reallocated/pending/offline-uncorrectable: 0/0/0.
+- No photo matching serial 0001HR2B is in the repo.
 - [SMART report](Drives/0001HR2B/0001HR2B.md)
 
 #### WDC WD181KFGX-68AFPN0 — 4ZGB861V
 
 - Capacity: 18 TB; power-on hours: 34,797; 7,200 rpm.
 - SMART: PASSED; reallocated/pending/offline-uncorrectable: 0/0/0.
+- Label date: 11 Jun 2022; [drive photo](Drives/4ZGB861V/4ZGB861V.jpeg).
 - [SMART report](Drives/4ZGB861V/4ZGB861V.md)
 
 #### WDC WD181KFGX-68AFPN0 — 4ZGBV7MV
 
 - Capacity: 18 TB; power-on hours: 34,911; 7,200 rpm.
 - SMART: PASSED; reallocated/pending/offline-uncorrectable: 0/0/0.
+- Label date: 03 Jun 2022; [drive photo](Drives/4ZGBV7MV/4ZGBV7MV.jpeg).
 - [SMART report](Drives/4ZGBV7MV/4ZGBV7MV.md)
+
+### Additional photographed drive
+
+- [QV1ZEXT5](Drives/QV1ZEXt5/QV1ZEXt5.md): 18 TB; DOM 15 Jun 2022.
+  No SMART report for this serial is captured.
 
 ### NVMe SSDs
 
