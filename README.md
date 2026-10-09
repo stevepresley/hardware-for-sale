@@ -17,9 +17,9 @@ Updated: 2026-10-09 13:38 UTC
 | CPU | Intel Celeron J3455, 4 cores / 4 threads |
 | RAM | 7.6 GB reported (~8 GB installed), upgraded from stock 4 GB |
 | Swap | 6.6 GB |
-| Drive bays | Four 3.5-inch bays and two M.2 NVMe slots; all populated at capture |
+| Drive bays | 4 × 3.5-inch + 2 × M.2 NVMe; all populated at capture |
 | DSM | 6.2.4-25556 Update 8 |
-| NIC | Not documented in the capture; verify in DSM Control Panel → Network → Network Interface |
+| NIC | Not documented; verify in DSM Network settings |
 
 The chassis serial number is intentionally not recorded here. Drive serials
 appear in their individual reports.
