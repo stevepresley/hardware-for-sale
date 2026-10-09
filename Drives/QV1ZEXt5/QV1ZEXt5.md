@@ -12,7 +12,7 @@
 | Date of manufacture (DOM) | 15 Jun 2022 |
 | SMART report | [Captured report](../0001HR2B/0001HR2B.md) identifies the drive as 0001HR2B |
 
-The physical label reads QV1ZEXT5; the SMART transcript reports 0001HR2B.
-The operator confirms these identify the same drive pulled from slot 2.
+Removed from slot 2 after it began failing. The physical label reads
+QV1ZEXT5; the captured SMART report lists serial 0001HR2B.
 
 ![QV1ZEXT5 drive label](QV1ZEXt5.jpeg)
