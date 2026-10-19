@@ -9,7 +9,11 @@
       <th scope="row">Date</th>
       <td>October 19, 2026</td>
       <td rowspan="3" align="right" valign="middle">
-        <img src="assets/hardware-for-sale-qr.png" alt="QR code linking to the hardware-for-sale repository" width="180">
+        <img
+          src="assets/hardware-for-sale-qr.png"
+          alt="QR code linking to the hardware-for-sale repository"
+          width="180"
+        >
       </td>
     </tr>
     <tr>
