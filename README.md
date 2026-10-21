@@ -1,6 +1,6 @@
 # Hardware for Sale
 
-Updated: 2026-10-09 14:08 UTC
+Updated: 2026-10-21 20:44 UTC
 
 ## Contents
 
@@ -8,6 +8,7 @@ Updated: 2026-10-09 14:08 UTC
 - [Synology DS918+ drive inventory](#synology-ds918-drive-inventory)
   - [SATA hard drives](#sata-hard-drives)
   - [NVMe SSDs](#nvme-ssds)
+- [Additional drive reports](#additional-drive-reports)
 
 ## Synology DS918+ system
 
@@ -79,3 +80,23 @@ Full captured SMART reports are linked by drive serial.
 - Power-on hours: 46,913; endurance used: 96%.
 - Available spare: 100%; critical warning: 0; media errors: 0.
 - [SMART report](Drives/S64ENG0R322539N/S64ENG0R322539N.md)
+
+## Additional drive reports
+
+Individual reports for the additional drives whose SMART data was supplied:
+
+| Model | Capacity | Serial | Report |
+| --- | ---: | --- | --- |
+| TEAM TM8PS7256G | 256 GB | TPBF2202160080201748 | [SMART report](Drives/TPBF2202160080201748/TPBF2202160080201748.md) |
+| TOSHIBA HDWR11A | 10 TB | 41Q0A023FBKG | [SMART report](Drives/41Q0A023FBKG/41Q0A023FBKG.md) |
+| TOSHIBA HDWR11A | 10 TB | 41R0A03HFBKG | [SMART report](Drives/41R0A03HFBKG/41R0A03HFBKG.md) |
+| WDC WD100EFAX-68LHPN0 | 10 TB | JEH6UUNN | [SMART report](Drives/JEH6UUNN/JEH6UUNN.md) |
+| WDC WD101EFAX-68LDBN0 | 10 TB | VCHAMM9P | [SMART report](Drives/VCHAMM9P/VCHAMM9P.md) |
+| WDC WD101EFBX-68B0AN0 | 10 TB | VCHN0NLP | [SMART report](Drives/VCHN0NLP/VCHN0NLP.md) |
+| WDC WD120EDAZ-11F3RA0 | 12 TB | 5PJLSXTF | [SMART report](Drives/5PJLSXTF/5PJLSXTF.md) |
+| WDC WD120EDBZ-11B1HA0 | 12 TB | 5PKZGSDF | [SMART report](Drives/5PKZGSDF/5PKZGSDF.md) |
+| WDC WD120EDBZ-11B1HA0 | 12 TB | 5QG0GJZE | [SMART report](Drives/5QG0GJZE/5QG0GJZE.md) |
+| WDC WD80EFZX-68UW8N0 | 8 TB | R6GNK1GY | [SMART report](Drives/R6GNK1GY/R6GNK1GY.md) |
+| WDC WD80EFZX-68UW8N0 | 8 TB | R6GX0X1Y | [SMART report](Drives/R6GX0X1Y/R6GX0X1Y.md) |
+| WDC WD80EFZX-68UW8N0 | 8 TB | VJH3T14X | [SMART report](Drives/VJH3T14X/VJH3T14X.md) |
+| T-FORCE TM8FP8001T | 1 TB | 112104260150544 | [SMART report](Drives/112104260150544/112104260150544.md) |
