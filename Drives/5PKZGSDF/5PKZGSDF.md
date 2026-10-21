@@ -5,6 +5,10 @@ Reallocated / pending / offline-uncorrectable sectors: 0 / 0 / 0
 UDMA CRC errors: 0 | SMART error log: none
 SMART capture time: 2026-10-21 20:44 UTC
 
+## Drive image
+
+![5PKZGSDF drive label](5PKZGSDF.jpeg)
+
 ## SMART details
 
 ```text

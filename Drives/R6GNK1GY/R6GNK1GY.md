@@ -6,6 +6,10 @@ UDMA CRC errors: 0 | SMART error log: none
 Device Statistics report 1,460 read-recovery attempts; logged self-tests completed without error.
 SMART capture time: 2026-10-21 20:44 UTC
 
+## Drive image
+
+![R6GNK1GY drive label](R6GNK1GY.jpeg)
+
 ## SMART details
 
 ```text

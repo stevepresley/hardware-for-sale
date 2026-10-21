@@ -6,6 +6,10 @@ UDMA CRC errors: 0 | SMART error log: none
 The report lists prior short and extended self-tests as completed without error; 8 current pending sectors remain a material warning.
 SMART capture time: 2026-10-21 20:44 UTC
 
+## Drive image
+
+![VJH3T14X drive label](VJH3T14X.jpeg)
+
 ## SMART details
 
 ```text

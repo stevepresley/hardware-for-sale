@@ -6,6 +6,10 @@ UDMA CRC errors: 107; error log records ICRC/ABRT interface errors
 Lifetime temperature maximum: 68 °C; specified maximum operating temperature: 65 °C
 SMART capture time: 2026-10-21 20:44 UTC
 
+## Drive image
+
+![5QG0GJZE drive label](5QG0GJZE.jpeg)
+
 ## SMART details
 
 ```text

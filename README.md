@@ -1,6 +1,6 @@
 # Hardware for Sale
 
-Updated: 2026-10-21 21:15 UTC
+Updated: 2026-10-21 21:44 UTC
 
 ## Contents
 
@@ -17,6 +17,7 @@ Updated: 2026-10-21 21:15 UTC
 | Swap | 6.6 GB |
 | Drive bays | 4 × 3.5-inch + 2 × M.2 NVMe; all populated at capture |
 | Included NVMe storage | 2 × Samsung SSD 980 500GB, included with the unit: [S64ENG0R322528X — 90% endurance used](Drives/S64ENG0R322528X/S64ENG0R322528X.md); [S64ENG0R322539N — 96% endurance used](Drives/S64ENG0R322539N/S64ENG0R322539N.md) |
+| Photo | [Front view](assets/Synology_918p_Front.jpeg) |
 | DSM | 6.2.4-25556 Update 8 |
 | NIC | Not documented; verify in DSM Network settings |
 
@@ -29,16 +30,16 @@ included with the chassis. Do not publish license keys.
 
 ## Drives for Sale
 
-The following drive reports and label records remain in this repository for sale:
+The following drive reports and label records remain in this repository for sale. [Group photo of the 8 TB and 12 TB drives](assets/WD_8TB_12TB_GroupShot.jpeg).
 
-| Model | Capacity | Serial / label | Report |
-| --- | ---: | --- | --- |
-| OOS18000G | 18 TB | 0001HR2B (label: QV1ZEXT5) | [SMART report](Drives/0001HR2B/0001HR2B.md); [label details](Drives/QV1ZEXt5/QV1ZEXt5.md) |
-| WDC WD181KFGX-68AFPN0 | 18 TB | 4ZGB861V | [SMART report](Drives/4ZGB861V/4ZGB861V.md); [photo](Drives/4ZGB861V/4ZGB861V.jpeg) |
-| WDC WD181KFGX-68AFPN0 | 18 TB | 4ZGBV7MV | [SMART report](Drives/4ZGBV7MV/4ZGBV7MV.md); [photo](Drives/4ZGBV7MV/4ZGBV7MV.jpeg) |
-| WDC WD120EDAZ-11F3RA0 | 12 TB | 5PJLSXTF | [SMART report](Drives/5PJLSXTF/5PJLSXTF.md) |
-| WDC WD120EDBZ-11B1HA0 | 12 TB | 5PKZGSDF | [SMART report](Drives/5PKZGSDF/5PKZGSDF.md) |
-| WDC WD120EDBZ-11B1HA0 | 12 TB | 5QG0GJZE | [SMART report](Drives/5QG0GJZE/5QG0GJZE.md) |
-| WDC WD80EFZX-68UW8N0 | 8 TB | R6GNK1GY | [SMART report](Drives/R6GNK1GY/R6GNK1GY.md) |
-| WDC WD80EFZX-68UW8N0 | 8 TB | R6GX0X1Y | [SMART report](Drives/R6GX0X1Y/R6GX0X1Y.md) |
-| WDC WD80EFZX-68UW8N0 | 8 TB | VJH3T14X | [SMART report](Drives/VJH3T14X/VJH3T14X.md) |
+| Model | Capacity | Serial / label | Report | Photo |
+| --- | ---: | --- | --- | --- |
+| OOS18000G | 18 TB | 0001HR2B (label: QV1ZEXT5) | [SMART report](Drives/0001HR2B/0001HR2B.md); [label details](Drives/QV1ZEXt5/QV1ZEXt5.md) | [label photo](Drives/QV1ZEXt5/QV1ZEXt5.jpeg) |
+| WDC WD181KFGX-68AFPN0 | 18 TB | 4ZGB861V | [SMART report](Drives/4ZGB861V/4ZGB861V.md) | [drive photo](Drives/4ZGB861V/4ZGB861V.jpeg) |
+| WDC WD181KFGX-68AFPN0 | 18 TB | 4ZGBV7MV | [SMART report](Drives/4ZGBV7MV/4ZGBV7MV.md) | [drive photo](Drives/4ZGBV7MV/4ZGBV7MV.jpeg) |
+| WDC WD120EDAZ-11F3RA0 | 12 TB | 5PJLSXTF | [SMART report](Drives/5PJLSXTF/5PJLSXTF.md) | [drive photo](Drives/5PJLSXTF/5PJLSXTF.jpeg) |
+| WDC WD120EDBZ-11B1HA0 | 12 TB | 5PKZGSDF | [SMART report](Drives/5PKZGSDF/5PKZGSDF.md) | [drive photo](Drives/5PKZGSDF/5PKZGSDF.jpeg) |
+| WDC WD120EDBZ-11B1HA0 | 12 TB | 5QG0GJZE | [SMART report](Drives/5QG0GJZE/5QG0GJZE.md) | [drive photo](Drives/5QG0GJZE/5QG0GJZE.jpeg) |
+| WDC WD80EFZX-68UW8N0 | 8 TB | R6GNK1GY | [SMART report](Drives/R6GNK1GY/R6GNK1GY.md) | [drive photo](Drives/R6GNK1GY/R6GNK1GY.jpeg) |
+| WDC WD80EFZX-68UW8N0 | 8 TB | R6GX0X1Y | [SMART report](Drives/R6GX0X1Y/R6GX0X1Y.md) | [drive photo](Drives/R6GX0X1Y/R6GX0X1Y.jpeg) |
+| WDC WD80EFZX-68UW8N0 | 8 TB | VJH3T14X | [SMART report](Drives/VJH3T14X/VJH3T14X.md) | [drive photo](Drives/VJH3T14X/VJH3T14X.jpeg) |

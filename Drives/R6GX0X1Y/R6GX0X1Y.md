@@ -6,6 +6,10 @@ UDMA CRC errors: 0 | SMART error log: none
 Logged short and extended self-tests completed without error.
 SMART capture time: 2026-10-21 20:44 UTC
 
+## Drive image
+
+![R6GX0X1Y drive label](R6GX0X1Y.jpeg)
+
 ## SMART details
 
 ```text
