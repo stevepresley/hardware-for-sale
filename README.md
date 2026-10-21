@@ -1,11 +1,10 @@
 # Hardware for Sale
 
-Updated: 2026-10-21 20:44 UTC
+Updated: 2026-10-21 21:15 UTC
 
 ## Contents
 
 - [Synology DS918+ system](#synology-ds918-system)
-- [Synology DS918+ NVMe SSDs](#synology-ds918-nvme-ssds)
 - [Drives for Sale](#drives-for-sale)
 
 ## Synology DS918+ system
@@ -17,6 +16,7 @@ Updated: 2026-10-21 20:44 UTC
 | RAM | 7.6 GB reported (~8 GB installed), upgraded from stock 4 GB |
 | Swap | 6.6 GB |
 | Drive bays | 4 × 3.5-inch + 2 × M.2 NVMe; all populated at capture |
+| Included NVMe storage | 2 × Samsung SSD 980 500GB, included with the unit: [S64ENG0R322528X — 90% endurance used](Drives/S64ENG0R322528X/S64ENG0R322528X.md); [S64ENG0R322539N — 96% endurance used](Drives/S64ENG0R322539N/S64ENG0R322539N.md) |
 | DSM | 6.2.4-25556 Update 8 |
 | NIC | Not documented; verify in DSM Network settings |
 
@@ -26,22 +26,6 @@ appear in their individual reports.
 Sale contents and physical condition of the chassis have not been documented.
 Confirm the power supply, trays, and any paid Surveillance Station licenses
 included with the chassis. Do not publish license keys.
-
-## Synology DS918+ NVMe SSDs
-
-These two SSDs remain installed in the Synology and are not for sale.
-
-### Samsung SSD 980 500GB — S64ENG0R322528X
-
-- Power-on hours: 46,913; endurance used: 90%.
-- Available spare: 100%; critical warning: 0; media errors: 0.
-- [SMART report](Drives/S64ENG0R322528X/S64ENG0R322528X.md)
-
-### Samsung SSD 980 500GB — S64ENG0R322539N
-
-- Power-on hours: 46,913; endurance used: 96%.
-- Available spare: 100%; critical warning: 0; media errors: 0.
-- [SMART report](Drives/S64ENG0R322539N/S64ENG0R322539N.md)
 
 ## Drives for Sale
 
