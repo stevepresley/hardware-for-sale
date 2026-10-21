@@ -6,8 +6,8 @@
 <table>
   <tbody>
     <tr>
-      <th scope="row">Date</th>
-      <td>October 19, 2026</td>
+      <td scope="row">Date</th>
+      <td>October 21, 2026</td>
       <td rowspan="3" align="right" valign="middle">
         <img
           src="assets/hardware-for-sale-qr.png"
@@ -17,11 +17,11 @@
       </td>
     </tr>
     <tr>
-      <th scope="row">Reddit</th>
+      <td scope="row">Reddit</th>
       <td><a href="https://reddit.com/u/TheEvilestSteve/">reddit.com/u/TheEvilestSteve/</a></td>
     </tr>
     <tr>
-      <th scope="row">Hardware for sale</th>
+      <td scope="row">Hardware for sale</th>
       <td><a href="https://github.com/stevepresley/hardware-for-sale">github.com/stevepresley/hardware-for-sale</a></td>
     </tr>
   </tbody>
