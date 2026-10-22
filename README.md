@@ -142,7 +142,7 @@ SSD condition:
 - [Login screen](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_FullFront_LoginScreen.jpeg)
 - [Screen off](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_FullFront_ScreenOff.jpeg)
 - [System information](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_FullFront_SystemInfo.jpeg)
-- [Disk Utility details](MBPro/MBPro_DiskUtility_Details.jpeg)
+- [Disk Utility details](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_DiskUtility_Details.jpeg)
 
 #### Keyboard and trackpad
 
