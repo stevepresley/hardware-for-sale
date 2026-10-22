@@ -146,7 +146,7 @@ SSD condition:
 
 #### Keyboard and trackpad
 
-- [Keyboard center](MBPro/MBPro_keyboard_center.jpeg), [center 2](MBPro/MBPro_keyboard_center_2.jpeg), [center 3](MBPro/MBPro_keyboard_center_3.jpeg)
+- [Keyboard center](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_center.jpeg), [center 2](MBPro/MBPro_keyboard_center_2.jpeg), [center 3](MBPro/MBPro_keyboard_center_3.jpeg)
 - [Keyboard left](MBPro/MBPro_keyboard_left.jpeg), [left 2](MBPro/MBPro_keyboard_left_2.jpeg)
 - [Keyboard right](MBPro/MBPro_keyboard_right.jpeg), [right 2](MBPro/MBPro_keyboard_right_2.jpeg)
 - [Keyboard and trackpad](MBPro/MBPro_keyboard_trackpad.jpeg), [alternate view](MBPro/MBPro_keyboard_trackpad_2.jpeg)
