@@ -139,7 +139,7 @@ SSD condition:
 - [Apple logo with timestamp](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_FullFront_AppleLogo_TimeStamp.jpeg)
 - [Front view with timestamp](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_FullFront_Timestamp.jpeg)
 - [Login screen with timestamp](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_LoginScreen_Timestamp.jpeg)
-- [Login screen](MBPro/MBPro_FullFront_LoginScreen.jpeg)
+- [Login screen](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_FullFront_LoginScreen.jpeg)
 - [Screen off](MBPro/MBPro_FullFront_ScreenOff.jpeg)
 - [System information](MBPro/MBPro_FullFront_SystemInfo.jpeg)
 - [Disk Utility details](MBPro/MBPro_DiskUtility_Details.jpeg)
