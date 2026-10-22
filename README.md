@@ -1,5 +1,5 @@
 # Hardware for Sale
-Updated: 2026-10-22 23:36 UTC
+Updated: 2026-10-22 23:40 UTC
 
 <table>
   <tbody>
@@ -8,7 +8,7 @@ Updated: 2026-10-22 23:36 UTC
       <td>October 21, 2026</td>
       <td rowspan="3" align="right" valign="middle">
         <img
-          src="assets/hardware-for-sale-qr.png"
+          src="https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/assets/hardware-for-sale-qr.png"
           alt="QR code linking to the hardware-for-sale repository"
           width="180"
         >
@@ -33,11 +33,11 @@ EU/elsewhere- sorry, it's too much of a hassle/expensive to ship out of the US t
 
 ## What's for sale:
 
-- [Synology DS918+ system](#synology-ds918-system)
-- [Synology Surviellance Station Licenses](#synology-surviellance-station-licenses)
-- [Cameras](#cameras-for-sale)
-- [Drives for Sale](#drives-for-sale)
-- [Macbook Pro (2020) i7 32GB 1TB](#macbook-pro)
+- [Synology DS918+ system](https://github.com/stevepresley/hardware-for-sale#synology-ds918-system)
+- [Synology Surviellance Station Licenses](https://github.com/stevepresley/hardware-for-sale#synology-surviellance-station-licenses)
+- [Cameras](https://github.com/stevepresley/hardware-for-sale#cameras)
+- [Drives for Sale](https://github.com/stevepresley/hardware-for-sale#drives-for-sale)
+- [Macbook Pro (2020) i7 32GB 1TB](https://github.com/stevepresley/hardware-for-sale#macbook-pro)
 
 ## Synology DS918+ system
 
@@ -47,14 +47,14 @@ Asking price: $400 USD
 | --- | --- |
 | Model | Synology DS918+ |
 | CPU | Intel Celeron J3455, 4 cores / 4 threads |
-| RAM | 7.6 GB reported (~8 GB installed), upgraded from stock 4 GB [System Info](assets/Synology_918p_InfoCenter.png) |
+| RAM | 7.6 GB reported (~8 GB installed), upgraded from stock 4 GB [System Info](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/assets/Synology_918p_InfoCenter.png) |
 | Drive bays | 4 × 3.5-inch + 2 × M.2 NVMe; all populated at capture |
-| Included NVMe storage | 2 × Samsung SSD 980 500GB, included with the unit: [S64ENG0R322528X — 90% endurance used](Drives/S64ENG0R322528X/S64ENG0R322528X.md); [S64ENG0R322539N — 96% endurance used](Drives/S64ENG0R322539N/S64ENG0R322539N.md) |
-| Photo | [Front view](assets/Synology_918p_Front.jpeg) |
-| DSM | 6.2.4-25556 Update 8 [DSM Version](assets/Synology_918p_UpdateRestore.png)|
+| Included NVMe storage | 2 × Samsung SSD 980 500GB, included with the unit: [S64ENG0R322528X — 90% endurance used](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/S64ENG0R322528X/S64ENG0R322528X.md); [S64ENG0R322539N — 96% endurance used](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/S64ENG0R322539N/S64ENG0R322539N.md) |
+| Photo | [Front view](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/assets/Synology_918p_Front.jpeg) |
+| DSM | 6.2.4-25556 Update 8 [DSM Version](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/assets/Synology_918p_UpdateRestore.png)|
 
 The chassis serial number is intentionally REDACTED in photos.
-I have *not* upgraded to DSM 7.0, I will reset the system to stock, current DSM version after removing [Camera License Packs](#synology-surviellance-station-licenses) - available as bundle pricing below. 
+I have *not* upgraded to DSM 7.0, I will reset the system to stock, current DSM version after removing [Camera License Packs](https://github.com/stevepresley/hardware-for-sale#synology-surviellance-station-licenses) - available as bundle pricing below. 
 
 ## Synology Surviellance Station Licenses
 (1) Camera license pack - 1 license (CLP1): $50. $45 w/ purchase of Synology. Delivery via secure note link
@@ -64,11 +64,11 @@ I have *not* upgraded to DSM 7.0, I will reset the system to stock, current DSM 
 These are all Wifi cameras, with Ethernet option. They are NOT POE however. I opened one of the 511WA, thinking they were, plugged into verify they worked directly with Unifi NVR and realized they still require power feed. I thought I had only opened one, but both WAs are opened, neither one has even been used/mounted though. 
 All purchased on Amazon, for use at our new house. Thought ethernet meant POE, but I guess I was wrong and ordered these by mistake on Prime Day a couple of years back.  I still have (2) Reolink 511s in service, and their doorbell. Nothing bad to say about them! They also work with Unifi NVR with no issues. Upgrading to 4k POE cameras as I can afford to, otherwise would mount these.
 
-[Group Photo](/REOLINK_CAMS/Reolink_CAMS_Group.jpeg)
+[Group Photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_CAMS_Group.jpeg)
 
-(2) Reolink RLA-511WA (both boxes opened, otherwise brand new) $70 each [Camera 1](/REOLINK_CAMS/Reolink_RLC-511WA_Opened_1.jpeg) [Camera 2](/REOLINK_CAMS/Reolink_RLC-511WA_Opened_2.jpeg) 
+(2) Reolink RLA-511WA (both boxes opened, otherwise brand new) $70 each [Camera 1](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511WA_Opened_1.jpeg) [Camera 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511WA_Opened_2.jpeg) 
 
-(1) Reolink RLA-511W (new in box) $75 [511W box pic 1](/REOLINK_CAMS/Reolink_RLC-511W_Sealed.jpeg) [511W box pic 2](/REOLINK_CAMS/Reolink_RLC-511W_Sealed_2.jpeg)  Seals are wrinkled, but both still intact!
+(1) Reolink RLA-511W (new in box) $75 [511W box pic 1](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511W_Sealed.jpeg) [511W box pic 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511W_Sealed_2.jpeg)  Seals are wrinkled, but both still intact!
 
 I will combine shipping/prices for multiple camera purchases. Also will discount CAM pack licences by $10 with purchase of one or more cameras. Can also do a bundle price with Synology unit and cameras/packs, just PM me. 
 
@@ -105,7 +105,6 @@ Bought to use as primary workstation for iOS app development when I left a posit
  - Multi-touch trackpad
  - Touch Bar and Touch ID
  - Tahoe 26.7.1
- - Charger and cable included
  - SSD SMART health: PASSED
  - Activation Lock, Find My, Apple account - All disabled
 
@@ -138,11 +137,12 @@ SSD condition:
 #### Front, screen, and system information
 
 - [Apple logo with timestamp](MBPro/MBPro_FullFront_AppleLogo_TimeStamp.jpeg)
+- [Front view with timestamp](MBPro/MBPro_FullFront_Timestamp.jpeg)
+- [Login screen with timestamp](MBPro/MBPro_LoginScreen_Timestamp.jpeg)
 - [Login screen](MBPro/MBPro_FullFront_LoginScreen.jpeg)
 - [Screen off](MBPro/MBPro_FullFront_ScreenOff.jpeg)
 - [System information](MBPro/MBPro_FullFront_SystemInfo.jpeg)
-- [Front view with timestamp](MBPro/MBPro_FullFront_Timestamp.jpeg)
-- [Login screen with timestamp](MBPro/MBPro_LoginScreen_Timestamp.jpeg)
+- [Disk Utility details](MBPro/MBPro_DiskUtility_Details.jpeg)
 
 #### Keyboard and trackpad
 
@@ -175,6 +175,4 @@ SSD condition:
 - [Bottom, full front](MBPro/MBPro_Bottom_Front_Full.jpeg), [front left](MBPro/MBPro_Bottom_FrontLeft.jpeg), [front right](MBPro/MBPro_Bottom_FrontRight.jpeg)
 - [Model number](MBPro/MBPro_Bottom_ModelNumber.jpeg)
 
-#### Storage
 
-- [Disk Utility details](MBPro/MBPro_DiskUtility_Details.jpeg)
