@@ -146,33 +146,33 @@ SSD condition:
 
 #### Keyboard and trackpad
 
-- [Keyboard center](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_center.jpeg), [center 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_center_2.jpeg), [center 3](MBPro/MBPro_keyboard_center_3.jpeg)
-- [Keyboard left](MBPro/MBPro_keyboard_left.jpeg), [left 2](MBPro/MBPro_keyboard_left_2.jpeg)
-- [Keyboard right](MBPro/MBPro_keyboard_right.jpeg), [right 2](MBPro/MBPro_keyboard_right_2.jpeg)
-- [Keyboard and trackpad](MBPro/MBPro_keyboard_trackpad.jpeg), [alternate view](MBPro/MBPro_keyboard_trackpad_2.jpeg)
-- [Trackpad close-up](MBPro/MBPro_trackpad.jpeg)
+- [Keyboard center](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_center.jpeg), [center 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_center_2.jpeg), [center 3](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_center_3.jpeg)
+- [Keyboard left](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_left.jpeg), [left 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_left_2.jpeg)
+- [Keyboard right](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_right.jpeg), [right 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_right_2.jpeg)
+- [Keyboard and trackpad](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_trackpad.jpeg), [alternate view](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_keyboard_trackpad_2.jpeg)
+- [Trackpad close-up](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_trackpad.jpeg)
 
 #### Lid
 
-- [Full lid](MBPro/MBPro_Lid_Full.jpeg)
-- [Front](MBPro/MBPro_Lid_Front.jpeg), [front right](MBPro/MBPro_Lid_FrontRight.jpeg)
-- [Back left](MBPro/MBPro_Lid_BackLeft.jpeg), [back-left middle](MBPro/MBPro_Lid_BackLeft_Middle.jpeg), [back right](MBPro/MBPro_Lid_BackRight.jpeg)
-- [Small scratch, front](MBPro/MBPro_Lid_SmallScratch_Front.jpeg)
-- [Small scratch and snail trails, zoomed](MBPro/MBPro_Lid_SmallScratch_ZoomIn.jpeg)
-- [Small scratch and snail trails, alternate back view](MBPro/MBPro_Lid_SmallScratch_SnailTrails_Back_AlternateView.jpeg)
-- [Snail trails](MBPro/MBPro_Lid_SnailTrails.jpeg)
+- [Full lid](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Lid_Full.jpeg)
+- [Front](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Lid_Front.jpeg), [front right](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Lid_FrontRight.jpeg)
+- [Back left](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Lid_BackLeft.jpeg), [back-left middle](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Lid_BackLeft_Middle.jpeg), [back right](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Lid_BackRight.jpeg)
+- [Small scratch, front](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Lid_SmallScratch_Front.jpeg)
+- [Small scratch and snail trails, zoomed](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Lid_SmallScratch_ZoomIn.jpeg)
+- [Small scratch and snail trails, alternate back view](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Lid_SmallScratch_SnailTrails_Back_AlternateView.jpeg)
+- [Snail trails](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Lid_SnailTrails.jpeg)
 
 #### Ports
 
-- [Left ports](MBPro/MBPro_Ports_Left.jpeg)
-- [Right ports](MBPro/MBPro_Ports_Right.jpeg)
+- [Left ports](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Ports_Left.jpeg)
+- [Right ports](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Ports_Right.jpeg)
 
 #### Bottom case and model number
 
-- [Bottom, full back](MBPro/MBPro_Bottom_Back_Full.jpeg)
-- [Bottom, back left](MBPro/MBPro_Bottom_BackLeft.jpeg), [back middle-left](MBPro/MBPro_Bottom_BackMiddleLeft.jpeg), [back middle-right](MBPro/MBPro_Bottom_BackMiddleRight.jpeg), [back right](MBPro/MBPro_Bottom_BackRight.jpeg)
-- [Bottom at screen hinge](MBPro/MBPro_Bottom_Back_ScreenHinge.jpeg)
-- [Bottom, full front](MBPro/MBPro_Bottom_Front_Full.jpeg), [front left](MBPro/MBPro_Bottom_FrontLeft.jpeg), [front right](MBPro/MBPro_Bottom_FrontRight.jpeg)
-- [Model number](MBPro/MBPro_Bottom_ModelNumber.jpeg)
+- [Bottom, full back](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Bottom_Back_Full.jpeg)
+- [Bottom, back left](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Bottom_BackLeft.jpeg), [back middle-left](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Bottom_BackMiddleLeft.jpeg), [back middle-right](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Bottom_BackMiddleRight.jpeg), [back right](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Bottom_BackRight.jpeg)
+- [Bottom at screen hinge](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Bottom_Back_ScreenHinge.jpeg)
+- [Bottom, full front](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Bottom_Front_Full.jpeg), [front left](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Bottom_FrontLeft.jpeg), [front right](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Bottom_FrontRight.jpeg)
+- [Model number](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Bottom_ModelNumber.jpeg)
 
 
