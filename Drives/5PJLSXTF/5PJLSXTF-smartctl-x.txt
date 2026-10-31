@@ -1,0 +1,31 @@
+smartctl 6.5 (build date May  2 2023) [x86_64-linux-4.4.59+] (local build)
+Copyright (C) 2002-16, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Vendor:               WDC
+Product:              WD120EDAZ-11F3RA
+Revision:             0A81
+User Capacity:        12,000,138,625,024 bytes [12.0 TB]
+Logical block size:   512 bytes
+Physical block size:  4096 bytes
+LU is fully provisioned
+Rotation Rate:        5400 rpm
+Form Factor:          3.5 inches
+Logical Unit id:      0x5000cca291e4b783
+Serial number:        5PJLSXTF
+Device type:          disk
+Local Time is:        Sat Oct 31 08:34:28 2026 -05
+SMART support is:     Unavailable - device lacks SMART capability.
+Read Cache is:        Enabled
+Writeback Cache is:   Enabled
+
+=== START OF READ SMART DATA SECTION ===
+Current Drive Temperature:     0 C
+Drive Trip Temperature:        0 C
+
+Error Counter logging not supported
+
+
+[GLTSD (Global Logging Target Save Disable) set. Enable Save with '-S on']
+Device does not support Self Test logging
+Device does not support Background scan results logging
