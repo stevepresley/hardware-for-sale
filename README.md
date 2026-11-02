@@ -35,9 +35,11 @@ EU/elsewhere- sorry, it's too much of a hassle/expensive to ship out of the US t
 
 - [Synology DS918+ system](https://github.com/stevepresley/hardware-for-sale#synology-ds918-system)
 - [Synology Surviellance Station Licenses](https://github.com/stevepresley/hardware-for-sale#synology-surviellance-station-licenses)
-- [Cameras](https://github.com/stevepresley/hardware-for-sale#cameras) - ALL SOLD
-- [Drives for Sale](https://github.com/stevepresley/hardware-for-sale#drives-for-sale)
 - [Macbook Pro (2020) i7 32GB 1TB](https://github.com/stevepresley/hardware-for-sale#macbook-pro)
+
+SOLD:
+- [Cameras](https://github.com/stevepresley/hardware-for-sale#cameras) - ALL SOLD
+- [Drives for Sale](https://github.com/stevepresley/hardware-for-sale#drives-for-sale) - ALL SOLD
 
 ## Synology DS918+ system
 
@@ -59,37 +61,6 @@ I have *not* upgraded to DSM 7.0, I will reset the system to stock, current DSM 
 ## Synology Surviellance Station Licenses
 (1) Camera license pack - 1 license (CLP1): $50. $45 w/ purchase of Synology. Delivery via secure note link
 (1) Camera license pack - 4 licesne (CLP4): $225. $200 w/ purchase of Synology. Delivery via secure note link
-
-## Cameras
-These are all Wifi cameras, with Ethernet option. They are NOT POE however. I opened one of the 511WA, thinking they were, plugged into verify they worked directly with Unifi NVR and realized they still require power feed. I thought I had only opened one, but both WAs are opened, neither one has even been used/mounted though. 
-All purchased on Amazon, for use at our new house. Thought ethernet meant POE, but I guess I was wrong and ordered these by mistake on Prime Day a couple of years back.  I still have (2) Reolink 511s in service, and their doorbell. Nothing bad to say about them! They also work with Unifi NVR with no issues. Upgrading to 4k POE cameras as I can afford to, otherwise would mount these.
-
-[Group Photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_CAMS_Group.jpeg) [UPDATED - All cameras sold!] 
-
-(2) Reolink RLA-511WA (both boxes opened, otherwise brand new) $70 each [Camera 1](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511WA_Opened_1.jpeg) [Camera 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511WA_Opened_2.jpeg) 
-
-(1) Reolink RLA-511W (new in box) $75 [511W box pic 1](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511W_Sealed.jpeg) [511W box pic 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511W_Sealed_2.jpeg)  Seals are wrinkled, but both still intact!
-
-I will combine shipping/prices for multiple camera purchases. Also will discount CAM pack licences by $10 with purchase of one or more cameras. Can also do a bundle price with Synology unit and cameras/packs, just PM me. 
-
-## Drives for Sale
-
-The following drives are available for sale. If you want to bundle any of the below drives with purchase of Synology unit above, subtract $10 per drive in bundle price. 
-
-[Group photo of the 8 TB and 12 TB drives](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/assets/WD_8TB_12TB_GroupShot.jpeg).
-
-
-|Model|Capacity|Serial / label|Power-on hours|Mfg. date|Price|Notes|Report|Photo|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|OOS18000G / QV1ZEXt5|18 TB|0001HR2B (label: QV1ZEXT5)|4,433|15 Jun 2022|SPF ~~$100~~|See SMART report, have not tried to remediate. Was working fine in my CHIA rig as a plot drive, moved to synology and it instantly reported degraded and started throwing errors. This is a GAMBLE price. Drive serial reported does not match label, so that is why there are two links here:|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/0001HR2B/0001HR2B.md); [label details](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/QV1ZEXt5/QV1ZEXt5.md)|[label photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/QV1ZEXt5/QV1ZEXt5.jpeg)|
-|WDC WD181KFGX-68AFPN0|18 TB|4ZGB861V|34,797|11 Jun 2022|SOLD ~~$300~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/4ZGB861V/4ZGB861V.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/4ZGB861V/4ZGB861V.jpeg)|
-|WDC WD181KFGX-68AFPN0|18 TB|4ZGBV7MV|34,911|03 Jun 2022|SOLD ~~$300~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/4ZGBV7MV/4ZGBV7MV.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/4ZGBV7MV/4ZGBV7MV.jpeg)|
-|WDC WD120EDAZ-11F3RA0|12 TB|5PJLSXTF|38,793|31 Aug 2020|SPF ~~$160~~|93 CRC errors, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/5PJLSXTF/5PJLSXTF.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/5PJLSXTF/5PJLSXTF.jpeg)|
-|WDC WD120EDBZ-11B1HA0|12 TB|5PKZGSDF|37,781|11 Mar 2021|SOLD ~~$180~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/5PKZGSDF/5PKZGSDF.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/5PKZGSDF/5PKZGSDF.jpeg)|
-|WDC WD120EDBZ-11B1HA0|12 TB|5QG0GJZE|37,689|11 Mar 2021|SPF ~~$140~~|107 CRC errors, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/5QG0GJZE/5QG0GJZE.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/5QG0GJZE/5QG0GJZE.jpeg)|
-|WDC WD80EFZX-68UW8N0|8 TB|R6GNK1GY|65,545|30 Oct 2017|SPF ~~$125~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/R6GNK1GY/R6GNK1GY.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/R6GNK1GY/R6GNK1GY.jpeg)|
-|WDC WD80EFZX-68UW8N0|8 TB|R6GX0X1Y|49,643|29 Jan 2018|SPF ~~$100~~|read-recovery history, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/R6GX0X1Y/R6GX0X1Y.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/R6GX0X1Y/R6GX0X1Y.jpeg)|
-|WDC WD80EFZX-68UW8N0|8 TB|VJH3T14X|65,617|30 Oct 2017|$75|8 pending sectors, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/VJH3T14X/VJH3T14X.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/VJH3T14X/VJH3T14X.jpeg)|
 
 ## Macbook Pro
 
@@ -177,3 +148,64 @@ SSD condition:
 - [Model number](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/MBPro/MBPro_Bottom_ModelNumber.jpeg)
 
 
+
+## Cameras - **ALL SOLD**
+These are all Wifi cameras, with Ethernet option. They are NOT POE however. I opened one of the 511WA, thinking they were, plugged into verify they worked directly with Unifi NVR and realized they still require power feed. I thought I had only opened one, but both WAs are opened, neither one has even been used/mounted though. 
+All purchased on Amazon, for use at our new house. Thought ethernet meant POE, but I guess I was wrong and ordered these by mistake on Prime Day a couple of years back.  I still have (2) Reolink 511s in service, and their doorbell. Nothing bad to say about them! They also work with Unifi NVR with no issues. Upgrading to 4k POE cameras as I can afford to, otherwise would mount these.
+
+[Group Photo](https://raw.githu
+## Cameras - **ALL SOLD**
+These are all Wifi cameras, with Ethernet option. They are NOT POE however. I opened one of the 511WA, thinking they were, plugged into verify they worked directly with Unifi NVR and realized they still require power feed. I thought I had only opened one, but both WAs are opened, neither one has even been used/mounted though. 
+All purchased on Amazon, for use at our new house. Thought ethernet meant POE, but I guess I was wrong and ordered these by mistake on Prime Day a couple of years back.  I still have (2) Reolink 511s in service, and their doorbell. Nothing bad to say about them! They also work with Unifi NVR with no issues. Upgrading to 4k POE cameras as I can afford to, otherwise would mount these.
+
+[Group Photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_CAMS_Group.jpeg) [UPDATED - All cameras sold!] 
+
+(2) Reolink RLA-511WA (both boxes opened, otherwise brand new) $70 each [Camera 1](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511WA_Opened_1.jpeg) [Camera 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511WA_Opened_2.jpeg) 
+
+(1) Reolink RLA-511W (new in box) $75 [511W box pic 1](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511W_Sealed.jpeg) [511W box pic 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511W_Sealed_2.jpeg)  Seals are wrinkled, but both still intact!
+
+I will combine shipping/prices for multiple camera purchases. Also will discount CAM pack licences by $10 with purchase of one or more cameras. Can also do a bundle price with Synology unit and cameras/packs, just PM me. 
+
+
+# Drives for Sale - **ALL SOLD**
+
+The following drives are available for sale. If you want to bundle any of the below drives with purchase of Synology unit above, subtract $10 per drive in bundle price.
+
+[Group photo of the 8 TB and 12 TB drives](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/assets/WD_8TB_12TB_GroupShot.jpeg).
+
+|Model|Capacity|Serial / label|Power-on hours|Mfg. date|Price|Notes|Report|Photo|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|OOS18000G / QV1ZEXt5|18 TB|0001HR2B (label: QV1ZEXT5)|4,433|15 Jun 2022|SOLD ~~$100~~|See SMART report, have not tried to remediate. Was working fine in my CHIA rig as a plot drive, moved to synology and it instantly reported degraded and started throwing errors. This is a GAMBLE price. Drive serial reported does not match label, so that is why there are two links here:|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/0001HR2B/0001HR2B.md); [label details](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/QV1ZEXt5/QV1ZEXt5.md)|[label photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/QV1ZEXt5/QV1ZEXt5.jpeg)|
+|WDC WD181KFGX-68AFPN0|18 TB|4ZGB861V|34,797|11 Jun 2022|SOLD ~~$300~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/4ZGB861V/4ZGB861V.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/4ZGB861V/4ZGB861V.jpeg)|
+|WDC WD181KFGX-68AFPN0|18 TB|4ZGBV7MV|34,911|03 Jun 2022|SOLD ~~$300~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/4ZGBV7MV/4ZGBV7MV.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/4ZGBV7MV/4ZGBV7MV.jpeg)|
+|WDC WD120EDAZ-11F3RA0|12 TB|5PJLSXTF|38,793|31 Aug 2020|SOLD ~~$160~~|93 CRC errors, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/5PJLSXTF/5PJLSXTF.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/5PJLSXTF/5PJLSXTF.jpeg)|
+|WDC WD120EDBZ-11B1HA0|12 TB|5PKZGSDF|37,781|11 Mar 2021|SOLD ~~$180~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/5PKZGSDF/5PKZGSDF.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/5PKZGSDF/5PKZGSDF.jpeg)|
+|WDC WD120EDBZ-11B1HA0|12 TB|5QG0GJZE|37,689|11 Mar 2021|SOLD ~~$140~~|107 CRC errors, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/5QG0GJZE/5QG0GJZE.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/5QG0GJZE/5QG0GJZE.jpeg)|
+|WDC WD80EFZX-68UW8N0|8 TB|R6GNK1GY|65,545|30 Oct 2017|SOLD ~~$125~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/R6GNK1GY/R6GNK1GY.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/R6GNK1GY/R6GNK1GY.jpeg)|
+|WDC WD80EFZX-68UW8N0|8 TB|R6GX0X1Y|49,643|29 Jan 2018|SOLD ~~$100~~|read-recovery history, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/R6GX0X1Y/R6GX0X1Y.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/R6GX0X1Y/R6GX0X1Y.jpeg)|
+|WDC WD80EFZX-68UW8N0|8 TB|VJH3T14X|65,617|30 Oct 2017|SPF~~$75~~|8 pending sectors, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/VJH3T14X/VJH3T14X.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/VJH3T14X/VJH3T14X.jpeg)|busercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_CAMS_Group.jpeg) [UPDATED - All cameras sold!] 
+
+(2) Reolink RLA-511WA (both boxes opened, otherwise brand new) $70 each [Camera 1](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511WA_Opened_1.jpeg) [Camera 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511WA_Opened_2.jpeg) 
+
+(1) Reolink RLA-511W (new in box) $75 [511W box pic 1](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511W_Sealed.jpeg) [511W box pic 2](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/REOLINK_CAMS/Reolink_RLC-511W_Sealed_2.jpeg)  Seals are wrinkled, but both still intact!
+
+I will combine shipping/prices for multiple camera purchases. Also will discount CAM pack licences by $10 with purchase of one or more cameras. Can also do a bundle price with Synology unit and cameras/packs, just PM me. 
+
+
+# Drives for Sale - **ALL SOLD**
+
+The following drives are available for sale. If you want to bundle any of the below drives with purchase of Synology unit above, subtract $10 per drive in bundle price.
+
+[Group photo of the 8 TB and 12 TB drives](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/assets/WD_8TB_12TB_GroupShot.jpeg).
+
+|Model|Capacity|Serial / label|Power-on hours|Mfg. date|Price|Notes|Report|Photo|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|OOS18000G / QV1ZEXt5|18 TB|0001HR2B (label: QV1ZEXT5)|4,433|15 Jun 2022|SOLD ~~$100~~|See SMART report, have not tried to remediate. Was working fine in my CHIA rig as a plot drive, moved to synology and it instantly reported degraded and started throwing errors. This is a GAMBLE price. Drive serial reported does not match label, so that is why there are two links here:|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/0001HR2B/0001HR2B.md); [label details](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/QV1ZEXt5/QV1ZEXt5.md)|[label photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/QV1ZEXt5/QV1ZEXt5.jpeg)|
+|WDC WD181KFGX-68AFPN0|18 TB|4ZGB861V|34,797|11 Jun 2022|SOLD ~~$300~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/4ZGB861V/4ZGB861V.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/4ZGB861V/4ZGB861V.jpeg)|
+|WDC WD181KFGX-68AFPN0|18 TB|4ZGBV7MV|34,911|03 Jun 2022|SOLD ~~$300~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/4ZGBV7MV/4ZGBV7MV.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/4ZGBV7MV/4ZGBV7MV.jpeg)|
+|WDC WD120EDAZ-11F3RA0|12 TB|5PJLSXTF|38,793|31 Aug 2020|SOLD ~~$160~~|93 CRC errors, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/5PJLSXTF/5PJLSXTF.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/5PJLSXTF/5PJLSXTF.jpeg)|
+|WDC WD120EDBZ-11B1HA0|12 TB|5PKZGSDF|37,781|11 Mar 2021|SOLD ~~$180~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/5PKZGSDF/5PKZGSDF.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/5PKZGSDF/5PKZGSDF.jpeg)|
+|WDC WD120EDBZ-11B1HA0|12 TB|5QG0GJZE|37,689|11 Mar 2021|SOLD ~~$140~~|107 CRC errors, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/5QG0GJZE/5QG0GJZE.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/5QG0GJZE/5QG0GJZE.jpeg)|
+|WDC WD80EFZX-68UW8N0|8 TB|R6GNK1GY|65,545|30 Oct 2017|SOLD ~~$125~~|Clean, no errors|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/R6GNK1GY/R6GNK1GY.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/R6GNK1GY/R6GNK1GY.jpeg)|
+|WDC WD80EFZX-68UW8N0|8 TB|R6GX0X1Y|49,643|29 Jan 2018|SOLD ~~$100~~|read-recovery history, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/R6GX0X1Y/R6GX0X1Y.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/R6GX0X1Y/R6GX0X1Y.jpeg)|
+|WDC WD80EFZX-68UW8N0|8 TB|VJH3T14X|65,617|30 Oct 2017|SPF~~$75~~|8 pending sectors, as-is|[SMART report](https://github.com/stevepresley/hardware-for-sale/blob/main/Drives/VJH3T14X/VJH3T14X.md)|[drive photo](https://raw.githubusercontent.com/stevepresley/hardware-for-sale/main/Drives/VJH3T14X/VJH3T14X.jpeg)|
